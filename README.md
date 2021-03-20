@@ -1,1 +1,1 @@
-# QuantumCompute
+study Q# language
