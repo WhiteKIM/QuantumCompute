@@ -1,1 +1,1 @@
-study Q# language
+# study Q# language
